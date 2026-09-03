@@ -1,0 +1,23 @@
+{
+ "name": "Focus Flow Clients",
+ "short_name": "Clients",
+ "description": "a client & invoice tracker for ADHD freelancers: clients with next actions, projects, time tracking, invoices with paid / due / overdue and a polite nudge, income overview, and a follow-up list so nobody falls through the cracks. Your data never leaves your device.",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#FAF7F2",
+ "theme_color": "#FAF7F2",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
